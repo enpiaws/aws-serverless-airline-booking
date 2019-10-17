@@ -1,0 +1,7 @@
+{
+    "workshop": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "/Users/lessa/.amplify/awscloudformation/YoDu766VGZ"
+    }
+}
